@@ -1,0 +1,6 @@
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\bin\Debug\netcoreapp3.1\PollyDemo.exe
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.AssemblyInfoInputs.cache
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.AssemblyInfo.cs
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\bin\Debug\netcoreapp3.1\Polly.dll
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.csprojAssemblyReference.cache
+E:\控制台应用例子\MicroServiceDemo\PollyDemo\obj\Debug\netcoreapp3.1\PollyDemo.csproj.CopyComplete

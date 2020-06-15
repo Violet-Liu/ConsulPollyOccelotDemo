@@ -1,0 +1,5 @@
+E:\控制台应用例子\MicroServiceDemo\ConsulServiceRegistration\bin\Debug\netstandard2.0\ConsulServiceRegistration.deps.json
+E:\控制台应用例子\MicroServiceDemo\ConsulServiceRegistration\bin\Debug\netstandard2.0\ConsulServiceRegistration.dll
+E:\控制台应用例子\MicroServiceDemo\ConsulServiceRegistration\obj\Debug\netstandard2.0\ConsulServiceRegistration.csprojAssemblyReference.cache
+E:\控制台应用例子\MicroServiceDemo\ConsulServiceRegistration\obj\Debug\netstandard2.0\ConsulServiceRegistration.AssemblyInfoInputs.cache
+E:\控制台应用例子\MicroServiceDemo\ConsulServiceRegistration\obj\Debug\netstandard2.0\ConsulServiceRegistration.AssemblyInfo.cs

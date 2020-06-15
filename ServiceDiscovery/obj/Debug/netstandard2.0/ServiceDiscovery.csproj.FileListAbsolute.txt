@@ -1,0 +1,5 @@
+E:\控制台应用例子\MicroServiceDemo\ServiceDiscovery\bin\Debug\netstandard2.0\ServiceDiscovery.deps.json
+E:\控制台应用例子\MicroServiceDemo\ServiceDiscovery\bin\Debug\netstandard2.0\ServiceDiscovery.dll
+E:\控制台应用例子\MicroServiceDemo\ServiceDiscovery\obj\Debug\netstandard2.0\ServiceDiscovery.csprojAssemblyReference.cache
+E:\控制台应用例子\MicroServiceDemo\ServiceDiscovery\obj\Debug\netstandard2.0\ServiceDiscovery.AssemblyInfoInputs.cache
+E:\控制台应用例子\MicroServiceDemo\ServiceDiscovery\obj\Debug\netstandard2.0\ServiceDiscovery.AssemblyInfo.cs
